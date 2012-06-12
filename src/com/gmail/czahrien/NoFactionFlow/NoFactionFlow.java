@@ -8,7 +8,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 
 /**
- * A Plugin that registers our event!
+ * A Plugin that registers the event listener!
  * @author Czahrien
  */
 public class NoFactionFlow extends JavaPlugin {
